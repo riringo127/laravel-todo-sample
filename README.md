@@ -4,8 +4,11 @@
 * 認証機能
   * Laravel UIを使用
     * アカウント作成機能
+    [![Image from Gyazo](https://i.gyazo.com/6332cef131124b901f885b09febeb3d1.gif)](https://gyazo.com/6332cef131124b901f885b09febeb3d1)
     * ログイン機能
+    [![Image from Gyazo](https://i.gyazo.com/6f49ee5e6fcf2139f71a4956b1ab4254.gif)](https://gyazo.com/6f49ee5e6fcf2139f71a4956b1ab4254)
     * ログアウト機能
+    [![Image from Gyazo](https://i.gyazo.com/f430ce8cae04f4701c4581062b4e6fdc.gif)](https://gyazo.com/f430ce8cae04f4701c4581062b4e6fdc)
 * CRUD機能
   * Create(作成）→ToDoの作成機能(storeアクション)
   * Read(読み取り）→ToDoの一覧機能(indexアクション)
